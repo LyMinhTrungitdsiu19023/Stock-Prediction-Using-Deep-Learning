@@ -9,4 +9,4 @@ class main:
     view = view(df).enterticker_normolize()
     a = Controller(view) 
     B = a.showAll()
-    print(B)
+    print(A)
